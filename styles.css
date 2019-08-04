@@ -27,7 +27,8 @@ a:hover { color: #a26f57; }
 
 .imgbox2 {
    display: grid;
-   height: 100%;
+   height: 70%;
+   width: 95%;
    padding-top: 110px;
 }
 
