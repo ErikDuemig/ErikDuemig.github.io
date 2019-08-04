@@ -29,18 +29,18 @@ a:hover { color: #a26f57; }
    display: grid;
    height: 50%;
    padding-top: 110px;
-   margin: auto;
+   margin: 0 auto;
 }
 
 .center-fit {
   max-width: 70%;
   max-height: 60vh;
-  margin: auto;
+  margin: 0 auto;
 }
 
 .center-large {
   max-width: 100%;
-  margin: auto;
+  margin: 0 auto;
 }
 
 .center-text {
