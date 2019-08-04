@@ -38,8 +38,8 @@ a:hover { color: #a26f57; }
 }
 
 .center-large {
-  max-width: 100%;
-  max-height: 100vh;
+  max-width: 99%;
+  max-height: 60vh;
   margin: auto;
 }
 
